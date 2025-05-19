@@ -1,0 +1,7 @@
+fivetran-hash/*.csv
+create-fivetran-aurora-connector/*.csv
+fivetran-hash/__pycache__
+create-fivetran-aurora-connector/__pycache__
+create-fivetran-aurora-connector/config.py
+fivetran-hash/config.py
+.DS_STORE
